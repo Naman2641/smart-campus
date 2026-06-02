@@ -268,6 +268,6 @@ By exploring this project, you will gain hands-on experience with:
 
 ---
 
-*Built with ❤️ using Python · Designed for learning · Open for contributions*
+*Built with ❤️ using Python ~Naman Kumar · Designed for learning · Open for contributions*
 
 </div>
